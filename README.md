@@ -1,4 +1,9 @@
 # Sae-Evenement_Maths
+
+Site créer pour un Evenement mathématiques le but de ce projet était de créer un site web permettant aux animateurs et aux professeurs présents à l'événement de pouvoir réserveaux des créneaux pour les différents stands présents dans cette événement
+
+
+
 Vidéo démo de notre site web : https://www.youtube.com/watch?v=yEo89uuUYpU
 
 
